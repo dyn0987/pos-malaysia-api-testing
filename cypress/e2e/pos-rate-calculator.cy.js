@@ -1,8 +1,7 @@
-
-
 const weightAmount = 1;
 const toPostCode = '35600';
 const destinationCountry = 'India';
+
 describe('Calculate shipping from Malaysia to India', () => {
     it('should allow user to calculate shipment quote', () => {
         cy.visit('https://pos.com.my/send/ratecalculator');
