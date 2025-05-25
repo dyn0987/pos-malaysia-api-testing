@@ -28,6 +28,8 @@ In POSTMAN TEST folder:
 
 **Verify user can calculate shipment quote from Malaysia to India.**
 
+- File: `e2e/pos-rate-calculator.cy.js`
+
 ### 🛠 Tech:
 
 - Cypress
