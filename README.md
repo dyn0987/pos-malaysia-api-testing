@@ -49,3 +49,15 @@ In POSTMAN TEST folder:
 ```bash
 npm install
 ```
+
+2. Open Cypress Test Runner (interactive mode)
+
+```bash
+npx cypress open
+```
+
+3. Run Cypress Tests in Headless Mode (CI or terminal)
+
+```bash
+npx cypress run
+```
