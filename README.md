@@ -24,11 +24,11 @@ In POSTMAN TEST folder:
 
 ## 🧪 Question 2 – UI Automation Test
 
+- File: `cypress/e2e/pos-rate-calculator.cy.js`
+
 ### ✅ Test Case Automated:
 
 **Verify user can calculate shipment quote from Malaysia to India.**
-
-- File: `e2e/pos-rate-calculator.cy.js`
 
 ### 🛠 Tech:
 
